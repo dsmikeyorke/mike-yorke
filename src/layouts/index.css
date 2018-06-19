@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville:700|Open+Sans:400,400i,700);
+
+body,
+#___gatsby{
+  height: 100%;
+}
+
+body{
+  background-color: #333;
+  color:#7F7F7F;
+  font-family: 'Open Sans',sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: #333;
+  font-family: 'Libre Baskerville',serif;
+  margin-top: 0;
+  line-height: 1.25;
+}
+
+p{
+  margin:0 0 1.5rem;
+  font-size: 1.125em;
+  line-height: 1.5;
+}
